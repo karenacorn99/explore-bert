@@ -16,6 +16,8 @@ https://github.com/pouyapez/pytorch-pretrained-BERT
 
 Chris McCormick Bert Tutorial Playlist:
 https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw/videos
+https://colab.research.google.com/drive/1fCKIBJ6fgWQ-f6UKs7wDTpNTL9N-Cq9X (inspect vocab jupyter notebook)
+https://colab.research.google.com/drive/1Y4o3jh3ZH70tl6mCd76vz_IxX23biCPP (sentence classification notebook)
 
 Jay Alammar The Illustrated BERT, ELMo, etc.
 http://jalammar.github.io/illustrated-bert/
