@@ -27,3 +27,6 @@ http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 Google AI Blog:
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+
+ModellingCode.ipynb: Examples of avg word2vec, Bert NextSentPrediction, Bert NextSentPrediction with custom attention layer,
+BertForMultipleChoice, BertForMultipleChoice with custom attention layer
